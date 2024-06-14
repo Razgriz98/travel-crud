@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: udt
+
+server:
+    port: 8090
