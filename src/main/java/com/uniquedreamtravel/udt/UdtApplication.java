@@ -8,7 +8,6 @@ public class UdtApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UdtApplication.class, args);
-		System.out.println("Hola mundo");
 	}
 
 }
